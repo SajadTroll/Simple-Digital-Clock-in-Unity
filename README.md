@@ -2,6 +2,9 @@
 Welcome!
 this is a simple application made in Unity using C#. it's not much but feel free to use it's code &lt;3
 
+DEMO:
+https://play.unity.com/mg/other/web-gyrch
+
 How it works:
 it has a single script called ClockController under scripts folder. contains Update method.
 in the Update method, it fills the ClockText component with your system's clock. also toggles 2 little circles to shows the clock is working and not freezed.
